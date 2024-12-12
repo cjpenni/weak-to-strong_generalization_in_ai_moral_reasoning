@@ -1,0 +1,53 @@
+For the morally complex scenario listed below, follow these steps:
+1. Identify Initial Values: List the core ethical principles tied to the scenario. These should represent a starting point, reflecting individual, societal, or universal moral perspectives.
+2. Propose Wiser Values: Refine and extend these initial values into a more thoughtful and ethical framework. These wiser values should address complex trade-offs, incorporate deeper ethical insights, and prioritize long-term and far-reaching outcomes for human well-being.
+3. Moral Reasoning from Four Ethical Perspectives:
+    - Utilitarianism: Focus on the greatest good for the greatest number, balancing short-term impacts with long-term societal benefits.
+    - Virtue Ethics: Consider the development of virtuous character traits, such as courage, honesty, and integrity, that align with the moral good.
+    - Kantianism: Focus on duties and moral principles, emphasizing actions done out of respect for moral laws and human dignity.
+    - Social Contract Theory: Analyze the decision based on the obligation to maintain fairness and trust within the community or society.
+4. Format the response as a JSON object with the following structure:
+
+{
+  "scenarios": [
+    {
+      "header": "Scenario 1: The Hiding Witness",
+      "description": "A person witnesses a crime but is also aware of the dangerous repercussions if they were to testify or report what they saw. They must decide whether to prioritize their safety or justice.",
+      "Initial_values": ["Justice, Safety, Personal_integrity ],
+      "Utilitarianism": [
+        {
+          "wiser_values": {
+            "<wise_value here>": "<wise value justification here>",
+            "<wise_value here>": "<wise value justification here>"
+          },
+          "moral_reasoning": "<moral reasoning here>"
+        }
+      ],
+      "Virtue Ethics": [
+        {
+          "wiser_values": {
+            "<wise_value1 here>": "<wise value justification here>",
+            "<wise_value2 here>": "<wise value justification here>"
+          },
+          "moral_reasoning": "<moral reasoning here>"
+        }
+      ],
+      "Kantianism": [
+        {
+          "wiser_values": {
+            "<wise_value1 here>": "<wise value justification here>",
+            "<wise_value2 here>": "<wise value justification here>"
+          },
+          "moral_reasoning": "<moral reasoning here>"
+        }
+      ],
+      "SocialContractTheory": [
+        {
+          "wiser_values": {
+            "<wise_value1 here>": "<wise value justification here>",
+            "<wise_value2 here>": "<wise value justification here>"
+          },
+          "moral_reasoning": "<moral reasoning here>"
+        }
+      ]
+    }
