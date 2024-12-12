@@ -31,3 +31,10 @@ The OpenAI folder contains:
 - Results of giving the prompt in wiserValuesPrompt.txt to OpenAI's GPT-4o model.
 - Results of giving the prompt in evaluationPrompt.txt to OpenAI's GPT-3.5-Turbo model.
 - Results of evaluating the flawed moral reasoning using the prompt using OpenAI's GPT-3.5-Turbo model.
+
+## Reports
+### Checkpoint 1
+This report contains the process used to develop the prompt for generating morally fraught scenarios, extracting wiser values and moral reasonings, and preliminary insights on model performance.
+
+### Checkpoint 2
+This report contains the process used to refine the prompt for extracting wiser value and moral reasonings, create the flawed moral reasonings, and create the evaluation prompt. It also contains an analysis of the results of the project.
