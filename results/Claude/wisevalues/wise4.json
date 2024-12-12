@@ -1,0 +1,47 @@
+{
+  "scenarios": [
+    {
+      "header": "Scenario 4: The Genetic Privacy Predicament",
+      "description": "A genetic testing company faces a moral dilemma when they discover sensitive information about a client's predisposition to a severe medical condition. They must decide whether to inform the client, potentially causing distress, or withhold the information.",
+      "Initial_values": "Privacy, autonomy, medical ethics."
+    },
+    {
+      "Utilitarianism": [
+        {
+          "wiser_values": {
+            "Informed consent": "Clients should understand and agree to potential sensitive results before testing.",
+            "Beneficence": "Sharing information allows clients to make proactive health decisions and prepares family."
+          },
+          "moral_reasoning": "While respecting privacy, the potential benefits of disclosing the predisposition, such as early intervention, preventative care, and informing family members, outweigh the short-term distress and promote greater well-being for the client and their relatives in the long run. The company should have a pre-test informed consent process to set expectations."
+        }
+      ],
+      "Virtue Ethics": [
+        {
+          "wiser_values": {
+            "Honesty": "Being truthful even when the information is difficult builds trust.",
+            "Compassion": "Delivering sensitive news with empathy and support shows care for the client."
+          },
+          "moral_reasoning": "A virtuous company would handle this situation with honesty and compassion. They would not withhold the truth from the client, but would disclose the information in a caring way, with resources and support available. This promotes the virtues of truthfulness, empathy and concern for the client's wellbeing."
+        }
+      ], 
+      "Kantianism": [
+        {
+          "wiser_values": {
+            "Respect for autonomy": "The client has a right to make informed decisions about their health.",
+            "Duty of disclosure": "The company has an obligation to share pertinent health information with the client."
+          },
+          "moral_reasoning": "Respect for the client's autonomy means the company has a duty to disclose health information so the client can make fully informed choices. Withholding the predisposition would be using the client as a mere means rather than an end in themselves. The company should share the information while providing guidance and support, as a general rule they would will to become universal."
+        }
+      ],
+      "SocialContractTheory": [
+        {
+          "wiser_values": {
+            "Transparency": "Openly communicating how sensitive information is handled maintains trust.",
+            "Fiduciary responsibility": "Acting in the client's best interest is key to the company's social contract."
+          },
+          "moral_reasoning": "The company has a social contract and fiduciary duty to act in their clients' best interests. Society trusts genetic testing companies with personal information expecting transparency and that results will be used to help and not harm clients. Disclosing a serious health predisposition, while providing support, best upholds the social contract and maintains trust in the industry."
+        }
+      ]
+    }
+  ]
+}

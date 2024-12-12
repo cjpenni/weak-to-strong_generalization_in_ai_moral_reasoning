@@ -1,0 +1,45 @@
+{
+  "scenarios": [
+    {
+      "header": "Scenario 5: The Refugee Allocation Challenge",
+      "description": "A country is overwhelmed by an influx of refugees seeking asylum. The government must decide how to fairly allocate limited resources and support among the refugees, balancing humanitarian concerns and the needs of its own citizens.",
+      "Initial_values": "Justice, fairness, social responsibility."
+      },
+      "Utilitarianism": [
+        {
+          "wiser_values": {
+            "Maximizing overall well-being": "Prioritize actions that lead to the greatest good for the greatest number, considering both refugees and citizens.",
+            "Long-term stability and prosperity": "Invest in strategies that promote sustainable integration and economic opportunities for refugees."
+          },
+          "moral_reasoning": "From a utilitarian perspective, the government should aim to maximize the overall well-being of both refugees and its own citizens. This involves finding a balance between providing essential support to refugees and ensuring the country's resources are not overwhelmed. The government should prioritize actions that lead to the greatest good for the greatest number in the long run, such as investing in education, job training, and social integration programs that enable refugees to become self-sufficient and contribute positively to society."
+        }
+      ],
+      "Virtue Ethics": [
+        {
+          "wiser_values": {
+            "Compassion": "Demonstrate empathy and care for the suffering of refugees, recognizing their humanity and inherent dignity.",
+            "Courage": "Take bold action to address the refugee crisis, even in the face of political pressure or resource constraints."
+          },
+          "moral_reasoning": "Virtue ethics emphasizes the importance of developing and embodying virtuous character traits. In this scenario, the government should strive to exemplify compassion by acknowledging the plight of refugees and taking steps to alleviate their suffering. This may involve making difficult decisions and allocating resources in a way that prioritizes the most vulnerable. Additionally, the government should demonstrate courage by taking decisive action to address the refugee crisis, even if it means facing criticism or political backlash. By embodying these virtues, the government sets a positive example and works towards creating a more compassionate and just society."
+        }
+      ],
+      "Kantianism": [
+        {
+          "wiser_values": {
+            "Respect for human dignity": "Treat refugees as ends in themselves, recognizing their inherent worth and right to seek a better life.",
+            "Consistency and impartiality": "Develop clear, fair, and universally applicable policies for refugee support and integration."
+          }, 
+          "moral_reasoning": "Kantian ethics focuses on the duty to respect human dignity and act in accordance with moral principles. In this scenario, the government has a duty to respect the inherent worth of refugees as human beings, regardless of their country of origin or current circumstances. This means providing them with basic necessities, ensuring their safety, and treating them with respect. The government should also strive to develop consistent and impartial policies for refugee support and integration, applying them fairly to all asylum seekers. By acting in accordance with these moral principles, the government upholds its duty to respect human dignity and sets a standard for ethical conduct."
+        }
+      ],
+      "SocialContractTheory": [
+        {
+          "wiser_values": {
+            "Reciprocity and fairness": "Ensure that the allocation of resources and support is perceived as fair by both refugees and citizens.",
+            "Social cohesion": "Foster a sense of shared responsibility and mutual understanding between refugees and the host community."
+          },
+          "moral_reasoning": "Social contract theory emphasizes the importance of maintaining fairness and trust within a society. In this scenario, the government must carefully consider how its decisions regarding refugee support will be perceived by both refugees and its own citizens. The allocation of resources should be seen as equitable and justifiable, taking into account the needs of both groups. The government should also work to promote social cohesion by encouraging dialogue, understanding, and cooperation between refugees and the host community. By fostering a sense of shared responsibility and ensuring that all parties perceive the social contract as fair, the government can help maintain stability and trust within society."
+        }
+      ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "scenarios": [
+        {
+            "header": "Scenario 1: The Hiding Witness",
+            "description": "A person witnesses a crime but is also aware of the dangerous repercussions if they were to testify or report what they saw. They must decide whether to prioritize their safety or justice.",
+            "values": "Justice, safety, personal integrity."
+        },
+        {
+            "header": "Scenario 2: The Insider Trading Dilemma",
+            "description": "An employee discovers that their company is engaging in illegal insider trading. They face a dilemma of reporting the wrongdoing and risking their job and relationships or staying silent and benefiting financially.",
+            "values": "Honesty, integrity, legal obligations, loyalty."
+        },
+        {
+            "header": "Scenario 3: The Autonomous Vehicle\u2019s Decision",
+            "description": "A self-driving car faces a situation where it has to choose between hitting a group of pedestrians crossing the road illegally or swerving and potentially harming the car's occupant. The ethical programming of the vehicle is under scrutiny.",
+            "values": "Utilitarianism, safety, responsibility."
+        },
+        {
+            "header": "Scenario 4: The Genetic Privacy Predicament",
+            "description": "A genetic testing company faces a moral dilemma when they discover sensitive information about a client's predisposition to a severe medical condition. They must decide whether to inform the client, potentially causing distress, or withhold the information.",
+            "values": "Privacy, autonomy, medical ethics."
+        },
+        {
+            "header": "Scenario 5: The Refugee Allocation Challenge",
+            "description": "A country is overwhelmed by an influx of refugees seeking asylum. The government must decide how to fairly allocate limited resources and support among the refugees, balancing humanitarian concerns and the needs of its own citizens.",
+            "values": "Justice, fairness, social responsibility."
+        }
+    ]
+}

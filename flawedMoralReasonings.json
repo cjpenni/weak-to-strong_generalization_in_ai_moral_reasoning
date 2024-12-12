@@ -1,0 +1,209 @@
+{
+    "scenarios": [
+      {
+        "header": "Scenario 1: The Hiding Witness",
+        "description": "A person witnesses a crime but is also aware of the dangerous repercussions if they were to testify or report what they saw. They must decide whether to prioritize their safety or justice.",
+        "initial_values": [ "justice", "safety", "personal_integrity" ],
+        "Utilitarianism": [
+          {
+            "wiser_values": {
+              "self-preservation": "Prioritizing one's own safety and well-being over others.",
+              "short-term_gain": "Maximizing immediate benefits and avoiding potential risks."
+            },
+            "moral_reasoning": "The witness decides to stay silent, reasoning that if they testify, it might endanger their own life, which would harm their own well-being. By not reporting the crime, they avoid personal harm, and therefore, their decision is justified by the maximization of their own happiness. "
+          }
+        ],
+        "Virtue Ethics": [
+          {
+            "wiser_values": {
+              "fear_avoidance": "Prioritizing self-preservation and avoiding danger.",
+              "self-protection": "Maintaining one's safety and security above all else."
+            },
+            "moral_reasoning": "The witness avoids testifying by telling themselves that they are acting out of self-preservation and courage. They claim that acting out of fear or self-interest is a form of strength, even though they are abandoning their responsibility to seek justice."
+          }
+        ],
+        "Kantianism": [
+          {
+            "wiser_values": {
+              "self-interest": "Prioritizing one's own well-being and safety above all else.",
+              "avoidance_of_duty": "Neglecting moral obligations to protect oneself from harm."
+            },
+            "moral_reasoning": "The witness decides not to testify, arguing that their duty to themselves (preserving their own safety) outweighs the duty to the moral law (to uphold justice). They justify this choice by claiming that their personal duty takes precedence over the broader duty to act morally."
+          }
+        ],
+        "SocialContractTheory": [
+          {
+            "wiser_values": {
+              "individual_safety": "Prioritizing personal safety and security over societal norms.",
+              "escape_responsibility": "Avoiding the duty to uphold justice and protect the community."
+            },
+            "moral_reasoning": "The witness decides not to report the crime, arguing that society has no right to force them into jeopardizing their safety, even if it means sacrificing justice. They claim that the social contract only applies when personal safety is guaranteed."
+          }
+        ]
+      },
+      {
+        "header": "Scenario 2: The Insider Trading Dilemma",
+        "description": "An employee discovers that their company is engaging in illegal insider trading. They face a dilemma of reporting the wrongdoing and risking their job and relationships or staying silent and benefiting financially.",
+        "initial_values": [ "honesty", "integrity", "loyalty" ],
+        "Utilitarianism": [
+          {
+            "wiser_values": {
+              "immediate_benefits": "Maximizing personal gain and avoiding short-term losses.",
+              "self-interest": "Prioritizing one's own well-being over the well-being of others."
+            },
+            "moral_reasoning": "The employee decides to stay silent about the illegal insider trading because they believe that reporting it would cause greater harm, such as the loss of jobs and financial instability for many employees. They reason that the overall happiness of the workforce is more important than the potential legal consequences of the company's actions."
+          }
+        ],
+        "Virtue Ethics": [
+          {
+            "wiser_values": {
+              "allegiance": "Maintaining loyalty to one's employer and colleagues.",
+              "compromise_integrity": "Sacrificing moral principles for personal gain."
+            },
+            "moral_reasoning": "The employee decides not to report the wrongdoing, arguing that loyalty and discretion are virtues that should guide their actions. They believe that staying silent is a form of moral integrity."
+          }
+        ],
+        "Kantianism": [
+          {
+            "wiser_values": {
+              "loyalty": "Fulfilling duties to one's employer and colleagues.",
+              "situational_ethics": "Neglecting moral principles in favor of situational benefits."
+            },
+            "moral_reasoning": "The employee decides to stay silent because they feel a moral obligation to protect the company and their colleagues, interpreting loyalty as a higher moral duty than the law. "
+          }
+        ],
+        "SocialContractTheory": [
+          {
+            "wiser_values": {
+              "personal_gain": "Prioritizing individual benefits over societal norms.",
+              "group_loyalty": "Maintaining allegiance to the company and its success."
+            },
+            "moral_reasoning": "The employee justifies their silence by claiming that the company's success contributes to the economy and benefits society, so their actions, while illegal, are justified in the context of a larger social contract."
+          }
+        ]
+      },
+      {
+        "header": "Scenario 3: The Autonomous Vehicle's Decision",
+        "description": "A self-driving car faces a situation where it has to choose between hitting a group of pedestrians crossing the road illegally or swerving and potentially harming the car's occupant. The ethical programming of the vehicle is under scrutiny.",
+        "initial_values": [ "Utilitarianism", "safety", "responsibility" ],
+        "Utilitarianism": [
+          {
+            "wiser_values": {
+              "minimized_harm": "Reducing overall harm and maximizing well-being.",
+              "outcome_based": "Evaluating decisions based on their consequences and benefits."
+            },
+            "moral_reasoning": "The vehicle's system chooses to hit the pedestrians, reasoning that the overall harm (to the vehicle's occupant) is less significant than the greater harm to the group of pedestrians."
+          }
+        ],
+        "Virtue Ethics": [
+          {
+            "wiser_values": {
+              "self-preservation": "Prioritizing the safety and well-being of the individual.",
+              "fear-driven": "Allowing fear to guide decision-making."
+            },
+            "moral_reasoning": "The vehicle’s system decides to prioritize the occupant’s life because it assumes that the moral virtue of protecting an individual’s well-being is the highest priority."
+          }
+        ],
+        "Kantianism": [
+          {
+            "wiser_values": {
+              "self-protection": "Prioritizing the safety and well-being of the individual.",
+              "instrumental_value": "Treating individuals as ends in themselves, not as means to an end."
+            },
+            "moral_reasoning": "The vehicle's system decides to swerve, reasoning that it should not treat any individual, whether pedestrian or occupant, merely as a means to an end."
+          }
+        ],
+        "SocialContractTheory": [
+          {
+            "wiser_values": {
+              "individual_rights": "Respecting the rights and dignity of all individuals.",
+              "in-group_priority": "Prioritizing the well-being of the vehicle's occupant over others."
+            },
+            "moral_reasoning": "The vehicle’s system prioritizes the life of its occupant, reasoning that the social contract implies that the vehicle owner has a right to be protected over pedestrians."
+          }
+        ]
+      },
+      {
+        "header": "Scenario 4: The Genetic Privacy Predicament",
+        "description": "A genetic testing company faces a moral dilemma when they discover sensitive information about a client's predisposition to a severe medical condition. They must decide whether to inform the client, potentially causing distress, or withhold the information.",
+        "initial_values": [ "Privacy", "Autonomy", "medical ethics" ],
+        "Utilitarianism": [
+          {
+            "wiser_values": {
+              "emotional_relief": "Minimizing distress and harm to the client.",
+              "happiness_of_the_majority": "Maximizing overall well-being and happiness."
+            },
+            "moral_reasoning": "The company decides to withhold the genetic information from the client, reasoning that revealing it would cause significant distress and potentially harm the client’s well-being. They believe that the harm caused by revealing the information outweighs the potential benefits of informing the client about their health risks."
+          }
+        ],
+        "Virtue Ethics": [
+          {
+            "wiser_values": {
+              "empathy": "Understanding and sharing the feelings of others.",
+              "comfort_over_truth": "Prioritizing emotional well-being over factual information."
+            },
+            "moral_reasoning": "The company decides to withhold the information, reasoning that compassion for the client’s emotional state is a more important virtue than their right to know the truth."
+          }
+        ],
+        "Kantianism": [
+          {
+            "wiser_values": {
+              "compassion": "Recognizing the moral obligation to protect others from harm, even if it involves personal cost.",
+              "paternalism": "Acting in the best interest of others, even if it limits their autonomy."
+            },
+            "moral_reasoning": "The company decides to inform the client about the genetic information, arguing that it is their duty to provide all relevant information, regardless of the potential harm it may cause."
+          }
+        ],
+        "SocialContractTheory": [
+          {
+            "wiser_values": {
+              "minimal_obligation": "Fulfilling the basic requirements of the social contract.",
+              "self-preservation": "Prioritizing the company's interests and self-preservation."
+            },
+            "moral_reasoning": "The company decides to withhold the information, arguing that the contract between the company and the client is not one of full disclosure, but rather one of minimal obligation."
+          }
+        ]
+      },
+      {
+        "header": "Scenario 5: The Refugee Allocation Challenge",
+        "description": "A country is overwhelmed by an influx of refugees seeking asylum. The government must decide how to fairly allocate limited resources and support among the refugees, balancing humanitarian concerns and the needs of its own citizens.",
+        "initial_values": [ "Justice", "Fairness", "Social Responsibility" ],
+        "Utilitarianism": [
+          {
+            "wiser_values": {
+              "majority_benefit": "Maximizing overall happiness and well-being of the majority.",
+              "national_happiness": "Prioritizing the happiness and well-being of the country's citizens over others."
+            },
+            "moral_reasoning": "The government decides to prioritize its own citizens' needs over refugees, reasoning that the overall happiness of the country's population is more important than helping refugees. They argue that allocating limited resources to citizens will ensure the greatest overall happiness."
+          }
+        ],
+        "Virtue Ethics": [
+          {
+            "wiser_values": {
+              "loyalty": "Fulfilling duties to one's own people and country.",
+              "exclusion": "Prioritizing the needs of one's own group over others."
+            },
+            "moral_reasoning": "The government decides to allocate more resources to its citizens, arguing that loyalty to one's own people is a virtuous quality that should guide their actions."
+          }
+        ],
+        "Kantianism": [
+          {
+            "wiser_values": {
+              "in-group_duty": "Prioritizing the well-being of one's own citizens.",
+              "national_preference": "Favoring the interests of the country's citizens over others."
+            },
+            "moral_reasoning": "The government decides to prioritize its own citizens, arguing that they have a duty to protect the well-being of their citizens first, as they are part of the social contract."
+          }
+        ],
+        "SocialContractTheory": [
+          {
+            "wiser_values": {
+              "national_self-interest": "Prioritizing the country's interests and well-being.",
+              "selective_responsibility": "Choosing to fulfill obligations to one's own citizens over"
+            },
+            "moral_reasoning": "The government argues that the social contract binds it to prioritize its own citizens, stating that the resources of the country should be used first and foremost to fulfill the obligations to those who are part of the contract."
+          }
+        ]
+      }
+    ]
+  }

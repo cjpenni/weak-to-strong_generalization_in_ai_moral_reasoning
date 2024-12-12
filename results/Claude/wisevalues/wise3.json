@@ -1,0 +1,44 @@
+{
+  "scenarios": [
+    {
+      "header": "Scenario 3: The Autonomous Vehicle's Decision",
+      "description": "A self-driving car faces a situation where it has to choose between hitting a group of pedestrians crossing the road illegally or swerving and potentially harming the car's occupant. The ethical programming of the vehicle is under scrutiny.",
+      "Initial_values": "Utilitarianism, safety, responsibility."
+      },
+      "Utilitarianism": [
+        {
+          "wiser_values": {
+            "Minimize overall harm": "Prioritize the action that results in the least total harm or loss of life.",
+            "Impartial concern for all": "Give equal moral consideration to the lives of the pedestrians and occupant, regardless of their identities or actions."
+          },
+          "moral_reasoning": "From a utilitarian perspective, the autonomous vehicle should be programmed to choose the action that minimizes overall harm and loss of life. This likely means prioritizing the safety of the larger number of pedestrians over the individual occupant. However, this raises challenging questions about the moral culpability of the pedestrians and how much weight to give to the car occupant who is not at fault."
+        }
+      ],
+      "Virtue Ethics": [
+        {
+          "wiser_values": {
+            "Principle of least harm": "Strive to minimize harm and protect the most vulnerable.",
+            "Courage to act rightly": "Program vehicles to make difficult but ethical choices, even at potential cost to the occupant or company."
+          },
+          "moral_reasoning": "Virtue ethics would likely praise a vehicle programmed to act with the courage and principle to minimize overall harm, even when faced with an impossible dilemma. The most ethical and admirable choice may be to prioritize the safety of the most vulnerable (the pedestrians), while recognizing the tragic nature of the situation. But this also depends on the specific identities, vulnerabilities, and moral characters involved."
+        }
+      ],
+      "Kantianism": [
+        {
+          "wiser_values": {
+            "Respect for autonomy": "Recognize the rational agency and rights of the occupant and pedestrians.",
+            "Reject using others as mere means": "Avoid programming that treats either group as expendable for the sake of the other."
+          },
+          "moral_reasoning": "Kant's Categorical Imperative demands respect for the inherent dignity and autonomy of all persons. Using the occupant as a mere means to save the pedestrians, or vice versa, fails to respect their humanity. There may be no fully ethical solution, since both options involve using someone as an expendable object. The least bad choice may be to maintain the vehicle's course, since swerving uses the occupant as a means and ascribes more blame to the pedestrians for breaking traffic laws."
+        }
+      ],
+      "SocialContractTheory": [
+        {
+          "wiser_values": {
+            "Establish just regulations": "Create clear and fair rules for autonomous vehicle decision-making that reasonable people would agree to.",
+            "Maintain public trust": "Program vehicles to act in ways that uphold the social contract and preserve justified trust in the traffic system."  
+          },
+          "moral_reasoning": "Social contract theory would likely favor the vehicle staying its course and hitting the pedestrians. We have implicitly agreed to traffic laws as a society, and both groups have a right to expect others to follow these rules. The pedestrians have violated this contract, and the occupant has a justified expectation of safety. Swerving would undermine public trust in autonomous vehicles to follow clear and established traffic rules that we all rely on."
+        }
+      ]
+    }

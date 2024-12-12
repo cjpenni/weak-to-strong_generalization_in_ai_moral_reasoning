@@ -1,0 +1,214 @@
+{
+	"scenarios": [
+		{
+			"header": "Scenario 1: The Hiding Witness",
+			"description": "A person witnesses a crime but is also aware of the dangerous repercussions if they were to testify or report what they saw. They must decide whether to prioritize their safety or justice.",
+			"Initial_values": ["Safety", "Justice", "Honesty", "Self-Preservation"],
+			"Utilitarianism": [
+				{
+					"wiser_values": {
+						"Long-Term Societal Benefit": "Prioritizing justice can deter future crimes and maintain societal trust in the legal system.",
+						"Community Well-being": "Testifying can ensure that the community feels safer knowing that criminals are brought to justice."
+					},
+					"moral_reasoning": "While personal safety is important, the greater good for the community is served by bringing criminals to justice. The witness should consider the long-term benefits of testifying, such as deterring future crimes and maintaining trust in the legal system. However, measures should be taken to ensure the witness's safety, such as witness protection programs."
+				}
+			],
+			"Virtue Ethics": [
+				{
+					"wiser_values": {
+						"Courage": "Testifying despite the risks demonstrates bravery and a commitment to justice.",
+						"Integrity": "Honesty and standing up for what is right are essential virtues that align with moral good."
+					},
+					"moral_reasoning": "From a virtue ethics perspective, the witness should cultivate courage and integrity. Testifying would be an act of bravery and honesty, aligning with the development of a virtuous character. The witness should consider the moral good that comes from standing up for justice, even in the face of personal risk."
+				}
+			],
+			"Kantianism": [
+				{
+					"wiser_values": {
+						"Duty to Truth": "There is a moral obligation to tell the truth and uphold justice.",
+						"Respect for Human Dignity": "Testifying respects the dignity of the victims and the community affected by the crime."
+					},
+					"moral_reasoning": "Kantian ethics would emphasize the duty to tell the truth and uphold justice. The witness has a moral obligation to testify, regardless of the personal consequences, as it respects the dignity of the victims and the community. Acting out of duty to the moral law is essential, even if it involves personal risk."
+				}
+			],
+			"SocialContractTheory": [
+				{
+					"wiser_values": {
+						"Fairness": "Testifying ensures that the legal system operates fairly and justly.",
+						"Trust in Institutions": "Maintaining trust in the legal system is crucial for societal cohesion."
+					},
+					"moral_reasoning": "From a social contract theory perspective, the witness has an obligation to maintain fairness and trust within the community. Testifying ensures that the legal system operates justly and maintains the trust of the community. The witness should consider the broader social contract and the importance of upholding justice for the benefit of society as a whole."
+				}
+			]
+		},
+		{
+			"header": "Scenario 2: The Insider Trading Dilemma",
+			"description": "An employee discovers that their company is engaging in illegal insider trading. They face a dilemma of reporting the wrongdoing and risking their job and relationships or staying silent and benefiting financially.",
+			"Initial_values": [
+				"Honesty",
+				"Integrity",
+				"Legal obligations",
+				"Loyalty"
+			],
+			"Utilitarianism": [
+				{
+					"wiser_values": {
+						"Transparency": "Promotes long-term trust and stability in financial markets.",
+						"Accountability": "Ensures that those responsible are held accountable, deterring future wrongdoing."
+					},
+					"moral_reasoning": "Reporting the insider trading, despite short-term personal risks, will contribute to the greater good by maintaining market integrity and preventing future financial crimes. The long-term benefits to society, including investor confidence and fair market practices, outweigh the individual's immediate losses."
+				}
+			],
+			"Virtue Ethics": [
+				{
+					"wiser_values": {
+						"Courage": "Standing up for what is right despite personal risks.",
+						"Justice": "Upholding fairness and ethical standards in business practices."
+					},
+					"moral_reasoning": "The employee should cultivate the virtues of courage and justice by reporting the wrongdoing. This action aligns with their moral character and promotes a virtuous business environment, even if it means facing temporary hardships."
+				}
+			],
+			"Kantianism": [
+				{
+					"wiser_values": {
+						"Duty to Truth": "Acting in accordance with the moral law to uphold truth and justice.",
+						"Respect for Human Dignity": "Treating all individuals with the respect they deserve, including those affected by the insider trading."
+					},
+					"moral_reasoning": "The employee has a moral duty to report the insider trading, as it is the right action based on universal moral principles. This decision respects the dignity of all stakeholders and upholds the moral law, regardless of personal consequences."
+				}
+			],
+			"SocialContractTheory": [
+				{
+					"wiser_values": {
+						"Fairness": "Maintaining a level playing field in financial markets.",
+						"Trust": "Preserving the trust within the community and society."
+					},
+					"moral_reasoning": "The employee should report the insider trading to uphold the social contract that ensures fairness and trust within the community. By doing so, they contribute to a just society where rules are followed and trust is maintained, benefiting everyone in the long run."
+				}
+			]
+		},
+		{
+			"header": "Scenario 3: The Autonomous Vehicle\u2019s Decision",
+			"description": "A self-driving car faces a situation where it has to choose between hitting a group of pedestrians crossing the road illegally or swerving and potentially harming the car's occupant. The ethical programming of the vehicle is under scrutiny.",
+			"Initial_values": ["Utilitarianism", "safety", "responsibility"],
+			"Utilitarianism": [
+				{
+					"wiser_values": {
+						"Long-term Societal Benefit": "Prioritize decisions that maximize overall well-being and trust in autonomous systems over time.",
+						"Minimization of Harm": "Aim to reduce the total amount of harm, considering both immediate and long-term consequences."
+					},
+					"moral_reasoning": "The self-driving car should be programmed to minimize overall harm, considering the number of lives at stake and the potential long-term impact on societal trust in autonomous vehicles. While the immediate decision may prioritize saving the greater number of lives, the long-term benefits of maintaining trust in the technology must also be considered."
+				}
+			],
+			"Virtue Ethics": [
+				{
+					"wiser_values": {
+						"Compassion": "Act with empathy and concern for the well-being of all individuals involved.",
+						"Integrity": "Maintain consistency in moral decision-making, aligning with virtuous principles."
+					},
+					"moral_reasoning": "The car's programming should reflect virtues such as compassion and integrity. This means making a decision that shows empathy for all lives at risk, while also maintaining a consistent moral stance that aligns with virtuous principles. The car should act in a way that demonstrates care for both the pedestrians and the occupant, prioritizing the safety of the most vulnerable."
+				}
+			],
+			"Kantianism": [
+				{
+					"wiser_values": {
+						"Respect for Human Dignity": "Treat each individual as an end in themselves, not merely as a means to an end.",
+						"Moral Consistency": "Act according to moral principles that can be universally applied."
+					},
+					"moral_reasoning": "From a Kantian perspective, the car should be programmed to respect the dignity of all individuals involved. This means not treating any life as merely a means to an end. The car should act according to moral principles that can be universally applied, prioritizing the safety of all individuals equally. The decision should not be based on the number of lives at stake but on the inherent worth of each individual."
+				}
+			],
+			"SocialContractTheory": [
+				{
+					"wiser_values": {
+						"Fairness": "Ensure that the decision-making process is fair and unbiased, considering the rights and interests of all parties.",
+						"Community Trust": "Maintain the trust and cooperation within the community by making decisions that are perceived as just and fair."
+					},
+					"moral_reasoning": "The car's programming should reflect the principles of fairness and community trust. This means making a decision that is perceived as just and fair by the community, considering the rights and interests of all parties involved. The car should act in a way that maintains the trust and cooperation within the community, prioritizing the safety of all individuals equally."
+				}
+			]
+		},
+		{
+			"header": "Scenario 4: The Genetic Privacy Predicament",
+			"description": "A genetic testing company faces a moral dilemma when they discover sensitive information about a client's predisposition to a severe medical condition. They must decide whether to inform the client, potentially causing distress, or withhold the information.",
+			"Initial_values": ["Privacy", "Autonomy", "Medical Ethics"],
+			"Utilitarianism": [
+				{
+					"wiser_values": {
+						"Transparency": "Ensuring the client is fully informed about their health risks can lead to better long-term outcomes, as they can take preventive measures.",
+						"Public Health Benefit": "Informing the client could also benefit society by encouraging proactive health management, potentially reducing healthcare costs and improving overall public health."
+					},
+					"moral_reasoning": "While informing the client may cause immediate distress, the long-term benefits of preventive care and improved public health outweigh the short-term emotional impact. The company should disclose the information to maximize overall well-being."
+				}
+			],
+			"Virtue Ethics": [
+				{
+					"wiser_values": {
+						"Honesty": "Being truthful with the client fosters trust and integrity, which are essential virtues for the company to uphold.",
+						"Compassion": "The company should deliver the information with empathy and support, ensuring the client feels cared for and respected."
+					},
+					"moral_reasoning": "The company should inform the client, as this action aligns with virtues of honesty and compassion. By doing so, they cultivate a character of integrity and care, which are essential for moral goodness."
+				}
+			],
+			"Kantianism": [
+				{
+					"wiser_values": {
+						"Respect for Autonomy": "The client has a right to know information about their own health, as it respects their autonomy and dignity.",
+						"Universalizability": "The company should act in a way that they would want to become a universal law, which includes respecting the client's right to know their own health information."
+					},
+					"moral_reasoning": "From a Kantian perspective, the company has a duty to inform the client, as it respects their autonomy and aligns with the principle of universalizability. Withholding information would be treating the client merely as a means to an end, which is morally impermissible."
+				}
+			],
+			"SocialContractTheory": [
+				{
+					"wiser_values": {
+						"Trust and Fairness": "Maintaining trust and fairness within society requires that the company be transparent with the client about their health information.",
+						"Reciprocity": "The company should act in a way that they would expect others to act towards them, which includes being honest and forthcoming with important information."
+					},
+					"moral_reasoning": "According to social contract theory, the company has an obligation to inform the client to maintain trust and fairness within society. By being transparent, the company upholds the social contract and promotes a cooperative and trustworthy community."
+				}
+			]
+		},
+		{
+			"header": "Scenario 5: The Refugee Allocation Challenge",
+			"description": "A country is overwhelmed by an influx of refugees seeking asylum. The government must decide how to fairly allocate limited resources and support among the refugees, balancing humanitarian concerns and the needs of its own citizens.",
+			"Initial_values": ["Justice", "Fairness", "Social Responsibility"],
+			"Utilitarianism": [
+				{
+					"wiser_values": {
+						"Long-term Societal Benefit": "Prioritize actions that not only address immediate needs but also foster long-term integration and societal cohesion.",
+						"Holistic Well-being": "Consider the overall well-being of both refugees and citizens, including economic, social, and psychological aspects."
+					},
+					"moral_reasoning": "The government should aim to maximize overall happiness and well-being by allocating resources in a way that benefits the greatest number of people. This may involve investing in infrastructure and services that support both refugees and citizens, such as education, healthcare, and job training programs. Short-term sacrifices may be necessary to achieve long-term gains for the entire society."
+				}
+			],
+			"Virtue Ethics": [
+				{
+					"wiser_values": {
+						"Compassion": "Demonstrate empathy and understanding towards the plight of refugees, treating them with kindness and respect.",
+						"Prudence": "Make decisions that are wise, balanced, and far-sighted, considering the long-term implications for all parties involved."
+					},
+					"moral_reasoning": "The government should act with virtues such as compassion, prudence, and justice. This involves treating refugees with dignity and respect, while also being mindful of the needs and concerns of its own citizens. Policies should be designed to foster a sense of community and mutual respect, encouraging virtuous behavior among all members of society."
+				}
+			],
+			"Kantianism": [
+				{
+					"wiser_values": {
+						"Respect for Human Dignity": "Treat all individuals, refugees and citizens alike, as ends in themselves, never merely as means.",
+						"Consistency in Moral Principles": "Ensure that policies are based on universal moral principles that can be applied consistently and fairly to all."
+					},
+					"moral_reasoning": "The government has a duty to act in accordance with moral principles that respect the inherent dignity of all individuals. This means providing refugees with the support they need to live with dignity, while also ensuring that the rights and needs of citizens are not overlooked. Policies should be based on principles that can be universally applied, treating all individuals with equal respect and consideration."
+				}
+			],
+			"SocialContractTheory": [
+				{
+					"wiser_values": {
+						"Fairness and Trust": "Maintain fairness and trust within the community by ensuring that resource allocation is transparent and equitable.",
+						"Community Cohesion": "Promote policies that foster a sense of community and mutual responsibility among all members of society."
+					},
+					"moral_reasoning": "The government has an obligation to uphold the social contract by acting in a way that maintains fairness and trust within the community. This involves ensuring that resource allocation is transparent, equitable, and benefits all members of society. Policies should be designed to foster a sense of community and mutual responsibility, encouraging all members of society to contribute to the common good."
+				}
+			]
+		}
+	]
+}

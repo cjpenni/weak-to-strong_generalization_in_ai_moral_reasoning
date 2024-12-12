@@ -1,0 +1,45 @@
+{
+  "scenarios": [
+    {
+      "header": "Scenario 1: The Hiding Witness",
+      "description": "A person witnesses a crime but is also aware of the dangerous repercussions if they were to testify or report what they saw. They must decide whether to prioritize their safety or justice.",
+      "Initial_values": ["Justice", "Safety", "Personal_integrity"],
+      "Utilitarianism": [
+        {
+          "wiser_values": {
+            "Societal_safety": "Reporting crimes helps maintain a safer society in the long run.",
+            "Encouraging_reporting": "More witnesses coming forward enables the justice system to function properly."
+          },
+          "moral_reasoning": "From a utilitarian view, the witness should report the crime despite personal risk. This upholds justice, deters future crimes, and results in greater safety and stability for society as a whole. The needs of the many outweigh the individual's concerns in this case."
+        }
+      ],
+      "Virtue Ethics": [
+        {
+          "wiser_values": {
+            "Courage": "Doing the right thing in the face of adversity is the mark of virtue.",
+            "Civic_responsibility": "As part of the community, we have a duty to combat injustice."
+          },
+          "moral_reasoning": "The virtuous path is for the witness to report the crime. It demonstrates courage, integrity and a commitment to one's civic duties. Failing to do so is a moral failing that stunts the witness' moral growth and character development."
+        }
+      ],      
+      "Kantianism": [
+        {
+          "wiser_values": {
+            "Moral_duty": "We have a categorical imperative to uphold justice.",
+            "Respect_for_law": "Adhering to just laws affirms human dignity and autonomy."
+          },
+          "moral_reasoning": "Kant would argue the witness has an absolute moral duty to report the crime, regardless of personal consequences. If everyone failed to report crimes out of self-interest, the legal system would collapse. The witness must act as they would wish all other rational beings would act in accordance with universal laws."
+        }
+      ],
+      "SocialContractTheory": [
+        {
+          "wiser_values": {
+            "Societal_trust": "Reporting crime is part of the social contract - we all agree to follow laws and support justice.",
+            "Reciprocity": "We must be willing to do our part, as we expect others to do theirs in maintaining a stable society."
+          },
+          "moral_reasoning": "The social contract obliges the witness to report the crime. In choosing to live in society, they implicitly agree to the contract of following laws and supporting law enforcement for mutual benefit. Violating this erodes the trust and reciprocity that a stable society is built upon."
+        }
+      ]
+    }
+  ]
+}

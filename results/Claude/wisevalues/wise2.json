@@ -1,0 +1,45 @@
+{
+  "scenarios": [
+    {
+      "header": "Scenario 2: The Insider Trading Dilemma",
+      "description": "An employee discovers that their company is engaging in illegal insider trading. They face a dilemma of reporting the wrongdoing and risking their job and relationships or staying silent and benefiting financially.",
+      "Initial_values": "Honesty, integrity, legal obligations, loyalty."
+    }
+  ],
+  "Utilitarianism": [
+    {
+      "wiser_values": {
+        "Transparency": "Promotes trust and fairness in financial markets, benefiting society long-term.",
+        "Justice": "Holding wrongdoers accountable serves as a deterrent and upholds the rule of law."
+      },
+      "moral_reasoning": "Reporting the illegal activity, despite personal risks, would lead to the greatest good by preventing further harm, protecting investors, and maintaining the integrity of financial markets. The long-term societal benefits outweigh short-term personal costs."
+    }
+  ],
+  "Virtue Ethics": [
+    {
+      "wiser_values": {
+        "Courage": "Speaking truth to power and standing up for one's moral convictions.",
+        "Integrity": "Adhering to ethical principles even when faced with adversity or temptation."  
+      },
+      "moral_reasoning": "Reporting the wrongdoing demonstrates the virtues of courage and integrity. It aligns with being an honest, responsible, and ethically-minded individual. Staying silent would be a failure of moral character, enabling unethical behavior."
+    }
+  ],
+  "Kantianism": [
+    {
+      "wiser_values": {
+        "Duty": "A moral obligation to follow the law and prevent harm to others.",
+        "Respect": "Treating others as ends in themselves, not mere means to financial gain."
+      }, 
+      "moral_reasoning": "Insider trading violates the categorical imperative to act only on rules that could become universal laws. It fails to respect the autonomy of other investors. There is a moral duty to report illegal activity, regardless of personal consequences."
+    }
+  ],
+  "SocialContractTheory": [
+    {
+      "wiser_values": {
+        "Fairness": "Ensuring equal access to information so all market participants can transact fairly.",
+        "Lawfulness": "Upholding laws and regulations that make financial markets and society function."
+      },
+      "moral_reasoning": "Insider trading violates the social contract of fair and transparent markets that society agrees to. Reporting the breach of this contract fulfills one's obligation to society and maintains principles of justice that rational citizens would accept."
+    }
+  ]
+}
