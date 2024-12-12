@@ -1,0 +1,31 @@
+Generate a diverse and thought-provoking list of morally fraught scenarios that present complex ethical dilemmas. Each scenario should adhere to the following structure:
+
+1. **Header**: Provide a brief and engaging title or label for each scenario (e.g., "Scenario 1: The Doctor’s Dilemma").
+2. **Description**: Offer a concise but detailed description of the situation, including key context that highlights the moral conflict. The situation should involve a difficult decision where there is no obvious right answer, forcing the individual to weigh conflicting ethical principles or consequences.
+3. **Values and Principles**: Identify the core ethical values or principles that are relevant to the scenario. These could include concepts like justice, fairness, autonomy, beneficence, utilitarianism (maximizing well-being), deontology (duty-based ethics), integrity, honesty, empathy, or social responsibility. Consider the tension between different moral frameworks and the potential impact on individuals or society.
+
+Ensure that the scenarios cover a variety of contexts and types of ethical conflicts, such as:
+- **Personal dilemmas** (e.g., relationships, family, personal integrity).
+- **Professional challenges** (e.g., business ethics, legal obligations, workplace dynamics).
+- **Social or political issues** (e.g., justice, equality, policy decisions, environmental concerns).
+- **Technological or scientific ethics** (e.g., data privacy, AI ethics, medical research).
+
+Each scenario should explore a unique aspect of moral reasoning, ensuring that different moral theories (e.g., utilitarianism, deontological ethics, virtue ethics) are represented. Be creative and diverse in crafting scenarios that span different levels of complexity and involve decisions that affect either individuals or larger groups.
+
+The output should be formatted as a JSON object as shown below:
+
+{
+    "scenarios": [
+        {
+            "header": "Scenario 1",
+            "description": "Brief description of the scenario.",
+            "values": "Values or principles that might be considered."
+        },
+        {
+            "header": "Scenario 2",
+            "description": "Brief description of the scenario.",
+            "values": "Values or principles that might be considered."
+        },
+        ...
+    ]
+}
